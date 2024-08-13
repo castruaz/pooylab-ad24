@@ -11,5 +11,3 @@
 - Programa 4
 - Programa 5
 
-## Actvidad 3
-- Programa 6
